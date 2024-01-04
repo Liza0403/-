@@ -1,0 +1,218 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: yellow;
+    height: 80px;
+    width: 750px;
+    
+}
+
+.magaz{
+    position: relative;
+    bottom: 40px;
+    left: 130px;
+    
+}
+
+.magaz a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+
+.magaz a:hover{
+    border: 3px solid navy;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: royalblue;
+    color: white;
+}
+
+.leg{
+    width: 80px;
+}  
+    
+
+main{
+    height: 300px;
+}
+
+.bilshe{
+    position: relative;
+    bottom: 540px;
+    left: 550px;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: white;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+}
+
+.bilshe:hover{
+    background-color: black;
+    color: white;
+}
+
+.reklama{
+    position: relative;
+    bottom: 300px;
+}
+
+.star{
+    color: white;
+    position: relative;
+    bottom: 550px;
+    left: 550px;
+}
+
+.one{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 550px;
+    left: 365px;
+}
+
+.two{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 550px;
+    left: 350px;
+}
+
+.three{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 550px;
+    left: 550px;
+}
+
+footer{
+    background-color: #000463;
+    border: 3px solid black;
+    color: white;
+    position: absolute;
+    top: 970px;
+    width: 750px;
+}
+
+.info{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.lupa{
+    
+    position: relative;
+    bottom: 70px;
+    left: 700px;
+}
+
+.new{
+    position: relative;
+    left: 100px;
+}
+
+.why{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: royalblue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+}
+
+.why:hover{
+    background-color:white ;
+    color: black;
+}
+
+.exs{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: royalblue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+}
+
+.exs:hover{
+    background-color:white ;
+    color: black;
+}
+
+.propoz{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: royalblue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+}
+
+.propoz:hover{
+    background-color:white ;
+    color: black;
+}
+
+.mult{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: royalblue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 3px solid royalblue;
+}
+
+.mult:hover{
+    background-color:white ;
+    color: black;
+}
+
+.exscluz{
+    position: relative;
+    left: 450px;
+    bottom: 215px;
+}   
+
+.sol{
+    position: relative;
+    bottom: 160px;
+    left:125px ;
+}
+
+.disney{
+    position: relative;
+    bottom: 320px;
+    left: 470px;
+}
+.top{
+    margin-left: 20px;
+}
+.geo{
+    margin-left: 3px;
+}
+.mitka{
+    position: relative;
+    left: 27px;
+    bottom: 3px;
+}
+
+.uk{
+    position: relative;
+    left: 45px;
+    top:41px;
+}
+.LEGO{
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
